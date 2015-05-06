@@ -15,9 +15,9 @@ public class ModificadaPorAmbos {
     /**
      * @author Inés Castel
      */
-    public void printHoli()
+    public void printHola()
     {
-        System.out.println("Holiiiiiii");
+        System.out.println("hola");
     }
     
     
